@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    padding: 2%;
+    background-color:lightseagreen;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.block1{
+    margin: 2%;
+    margin-left: 18%;
+
+}
+.img1{
+    margin: 2%;
+    width: 350px;
+    height: 350px;
+    border: 15px solid lightseagreen;
+
+}
+.img2{
+    margin: 2%;
+    width: 350px;
+    height: 350px;
+    border: 15px dashed lightseagreen;
+}
+.img3{
+    margin: 2%;
+    width: 350px;
+    height:350px;
+    border: 15px dotted lightseagreen;
+}
+
+.block2{
+    margin: 2%;
+    margin-left: 30%;
+
+}
+.img4{
+    margin: 2%;
+    width: 350px;
+    height: 350px;
+    border: 15px ridge lightseagreen;
+}
+.img5{
+    margin: 2%;
+    width: 350px;
+    height:350px;
+    border: 15px groove lightseagreen;
+}
+
+.block3{
+    margin: 2%;
+    margin-left: 30%;
+
+}
+.img6{
+    margin: 2%;
+    width: 350px;
+    height: 350px;
+    border: 15px double lightseagreen;
+}
+.img7{
+    margin: 2%;
+    padding: 1%;
+    width: 350px;
+    height:350px;
+    border: none;
+}
+
+.notes{
+    border: 13px solid;
+    margin: 2%;
+    padding: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    display: block;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    background-color: lightseagreen;
+    color: white;
+    border-top-color: green;
+    border-right-color:fuchsia;
+    border-bottom-color: blue;
+    border-left-color:crimson;
+
+}
+.notes h2{
+    text-align: center;
+    margin: 2%;
+}
+
+.footer{
+    padding: 2%;
+    background-color:lightseagreen;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 40px;
+    
+    
+}
+.footer a:hover{
+    border-bottom: 1px solid blue;
+    color: blue;
+    border-bottom: 1px solid blue;
+    
+}
